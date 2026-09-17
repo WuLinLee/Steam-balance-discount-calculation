@@ -1,3 +1,17 @@
+## 直接下载使用（Windows，推荐）
+
+不想安装编译器？直接下载现成的 exe：
+
+**[⬇ 点击下载 倒余额.exe](https://github.com/WuLinLee/Steam-balance-discount-calculation/raw/main/%E5%80%92%E4%BD%99%E9%A2%9D.exe)**
+
+下载后双击运行即可。
+
+如果 Windows 提示“Windows 已保护你的电脑”，点击：
+
+**更多信息 → 仍要运行**
+
+> 注意：exe 仅适用于 Windows。Mac / Linux 用户请下载源码自行编译。
+
 # Steam 余额折扣计算器
 
 一个用 C 语言编写的命令行工具，用于在 Steam 社区市场出售物品时，快速计算扣除手续费后的实际到手余额，并辅助判断交易盈亏。
